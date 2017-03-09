@@ -26,12 +26,12 @@ nav ul li a.selected {
     color: #000;
 }
 
-header {
-    background-image: url("bg.jpg");
-    background-position: center center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
+/*header {*/
+/*    background-image: url("bg.jpg");*/
+/*    background-position: center center;*/
+/*    background-size: cover;*/
+/*    background-repeat: no-repeat;*/
+/*}*/
 
 #logo {
     padding: 0 20px;
@@ -86,8 +86,8 @@ table {
     border-spacing: 2px;
     border-color: gray;
     table-layout: auto;
-    margin-left: 50px;
-    margin-top: 20x;
+    /*margin-left: 50px;*/
+    margin-top: 20px;
     width: 100%;
 }
 
@@ -97,4 +97,10 @@ td,th,p,h2 {
 
 content{
     width: 100%;
+}
+.table {
+    background: #FFF;
+}
+h1 {
+    font-weight: bold;
 }
